@@ -8,8 +8,8 @@ export function Hero() {
 
   return (
     <section className="min-h-screen flex items-center justify-center pt-20">
-      <div className="container">
-        <div className="max-w-4xl mx-auto text-center">
+      <div className="container flex justify-center">
+        <div className="max-w-4xl w-full text-center">
           {/* Badge */}
           <div className="badge" style={{ marginBottom: "80px" }}>
             <span className="w-2 h-2 rounded-full bg-[var(--accent-primary)]" />
