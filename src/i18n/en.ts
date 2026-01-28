@@ -8,10 +8,7 @@ export const en: Locale = {
   },
   hero: {
     badge: "Introducing neumann",
-    mainCopy: {
-      line1: "Eliminate Ambiguity.",
-      line2: "Accelerate Growth.",
-    },
+    mainCopy: "Eliminate Ambiguity. Accelerate Growth.",
     subCopy:
       "AI-powered clarity for every business review—no more vague reports, no more endless back-and-forth.",
     cta: "Request a Demo",

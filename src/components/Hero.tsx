@@ -18,12 +18,10 @@ export function Hero() {
 
           {/* Main Copy */}
           <h1
-            className="text-4xl md:text-5xl lg:text-7xl font-bold tracking-tight leading-[1.1]"
+            className="text-2xl md:text-3xl lg:text-[2.75rem] font-bold tracking-tight leading-[1.2]"
             style={{ marginBottom: "64px" }}
           >
-            {t.hero.mainCopy.line1}
-            <br />
-            {t.hero.mainCopy.line2}
+            {t.hero.mainCopy}
           </h1>
 
           {/* Sub Copy */}

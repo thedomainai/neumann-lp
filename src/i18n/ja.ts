@@ -6,10 +6,7 @@ export const ja = {
   },
   hero: {
     badge: "Introducing neumann",
-    mainCopy: {
-      line1: "達成を阻む",
-      line2: "曖昧さをなくす",
-    },
+    mainCopy: "達成を阻む曖昧さをなくす",
     subCopy:
       "「問題の場所・課題/真因・打ち手・打ち手の結果」を明確にすることで達成の再現性を担保",
     cta: "Request a Demo",
